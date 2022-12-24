@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irfantaskopru
 - 👀 I’m interested in data, machine learning, deep learning and image processing.
-- 🌱 I’m currently learning HTML-CSS-JavaScript-Python.
+- 🌱 I’m currently learning SQL-Python.
 - 💞️ I’m looking to collaborate on Data Scientist.
 - 📫 How to reach me irfantskopru@hotmail.com
 
